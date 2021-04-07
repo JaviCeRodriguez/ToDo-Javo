@@ -1,0 +1,23 @@
+{
+  "name": "todo-javo",
+  "version": "1.0.0",
+  "description": "ToDo list with Firestore",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaviCeRodriguez/ToDo-Javo.git"
+  },
+  "author": "Javo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaviCeRodriguez/ToDo-Javo/issues"
+  },
+  "homepage": "https://github.com/JaviCeRodriguez/ToDo-Javo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
